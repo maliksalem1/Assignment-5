@@ -1,7 +1,7 @@
-# ICS2O-template-HTML
+# Assignment-5
 
-[![GitHub's Super Linter](https://github.com/maliksalem1/ICS2O-template-HTML/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/maliksalem1/ICS2O-template-HTML/actions)
+[![GitHub's Super Linter](https://github.com/maliksalem1/Assignment-5/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/maliksalem1/Assignment-5/actions)
 
-[![Run on Repl.it](https://repl.it/badge/github/maliksalem1/ICS2O-template-HTML)](https://repl.it/github/maliksalem1/ICS2O-template-HTML)
+[![Run on Repl.it](https://repl.it/badge/github/maliksalem1/Assignment-5)](https://repl.it/github/maliksalem1/Assignment-5)
 
-This site can be found at: [https://maliksalem1.github.io/ICS2O-template-HTML](https://maliksalem1.github.io/ICS2O-template-HTML)
+This site can be found at: [https://maliksalem1.github.io/Assignment-5](https://maliksalem1.github.io/Assignment-5)
